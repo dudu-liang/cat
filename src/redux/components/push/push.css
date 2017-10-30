@@ -1,0 +1,74 @@
+.push-line{
+    margin-top: 15px;
+    text-align: center;
+}
+.push-view .inp{
+    width: 90%;
+    border:none;
+    border-bottom:solid 1px #eee;
+    height: 30px;
+    padding-left:5px;
+    font-size: 14px;
+    color: #333;
+}
+.push-name{
+    display: inline-block;
+    width: 60px;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 5%;
+    color: #333;
+}
+.push-one{
+    margin-top: 15px;
+    text-align: left;
+}
+.sel{
+    width: 120px;
+    height: 30px;
+    border:solid 1px #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.push-view{
+    padding-bottom: 70px;
+}
+.push-btn{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+    background-color: #ffd948;
+    border:none;
+}
+
+.push-photobox{
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: inline-block;
+    width: 120px;
+    height: 150px;
+    background-color: #ddd;
+    margin-left: 5%;
+    color: #666;
+    font-size: 15px;
+    text-align: center;
+    line-height: 150px;
+}
+.file{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    z-index: 2;
+    opacity: 0;
+}

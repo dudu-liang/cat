@@ -1,0 +1,39 @@
+.name{
+    display: inline-block;
+    width: 60px;
+    font-size: 14px;
+    text-align: left;
+}
+.line{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.inp{
+    padding-left: 5px;
+    height: 35px;
+    border:solid 1px #d5d5d5;
+    border-radius: 3px;
+    width: 60%;
+    color: #333;
+}
+.margin-top-10{
+    margin-top: 30%;
+}
+.login-btn{
+    width: 85%;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    background-color: #ffd948;
+    border-radius: 5px;
+    border:none;
+    margin-top: 30%;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+.go-page{
+    font-size: 13px;
+    margin-top: 5px;
+    text-align: center;
+    color: #0366d6;
+}

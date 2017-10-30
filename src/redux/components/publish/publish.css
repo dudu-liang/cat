@@ -1,0 +1,15 @@
+.publish-boxbtn{
+    text-align: right;
+    margin-right:10px;
+    margin-bottom: 10px;
+}
+.publish-boxbtn button{
+    height: 30px;
+    padding:3px 15px;
+    font-size: 14px;
+    text-align: center;
+    border:solid 1px #ddd;
+    background-color: transparent;
+    color: #666;
+    margin-left:10px;
+}
